@@ -5,3 +5,6 @@
 ![alt-текст](https://github.com/IrinaPr/hw6/blob/master/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202018-04-14%2019_48_24.png) 
 
 ## 2. Скриншот слова, относящегося к различным частям речи
+![alt-текст](https://github.com/IrinaPr/hw6/blob/master/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202018-04-14%2019_49_24.png)
+
+## 3. Синонимы
